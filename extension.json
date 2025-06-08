@@ -1,15 +1,15 @@
 {
-  "identifier": "tech.gunderson.sn-theme-monochrome-dark",
-  "name": "Monochrome Dark",
+  "identifier": "tech.ragets.sn-theme-jw-dark",
+  "name": "JW Dark",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.2",
-  "description": "A near-monochrome dark theme for Standard Notes.",
-  "url": "https://cdn.jsdelivr.net/gh/Parkertg/sn-theme-monochrome-dark@v1.2/main.css",
-  "download_url": "https://github.com/Parkertg/sn-theme-monochrome-dark/archive/refs/tags/v1.2.zip",
-  "marketing_url": "https://github.com/Parkertg/sn-theme-monochrome-dark",
+  "version": "1.0",
+  "description": "A dark theme based on JW.org and JW Library for Standard Notes.",
+  "url": "https://sragets.alwaysdata.net/sn/main.css",
+  "download_url": "https://github.com/who8mypnuts/jw-sn/raw/refs/heads/main/Archive.zip",
+  "marketing_url": "https://github.com/who8mypnuts/jw-sn",
   "thumbnail_url": "https://raw.githubusercontent.com/Parkertg/sn-theme-monochrome-dark/main/preview.png"
-    "latest_url": "https://listed.to/p/eY9kuTLQzB",
+    "latest_url": "https://raw.githubusercontent.com/who8mypnuts/jw-sn/refs/heads/main/extension.json",
   "dock_icon": {
     "type": "circle",
     "background_color": "#adadad",
