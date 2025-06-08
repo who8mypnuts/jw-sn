@@ -1,0 +1,11 @@
+{
+        "name": "jw-sn",
+        "version": "1.0",
+        "sn": {
+            "main": "main.css"
+        },
+        "repository": {
+            "type": "git",
+            "url": "git://github.com/who8mypnuts/jw-sn.git"
+        }
+}
