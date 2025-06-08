@@ -6,7 +6,7 @@
   "version": "1.0",
   "description": "A dark theme based on JW.org and JW Library for Standard Notes.",
   "url": "https://sragets.alwaysdata.net/sn/main.css",
-  "download_url": "https://github.com/who8mypnuts/jw-sn/raw/refs/heads/main/Archive.zip",
+  "download_url": "https://github.com/who8mypnuts/jw-sn/archive/refs/tags/v1.0.0.zip",
   "marketing_url": "https://github.com/who8mypnuts/jw-sn",
   "thumbnail_url": "https://raw.githubusercontent.com/Parkertg/sn-theme-monochrome-dark/main/preview.png"
     "latest_url": "https://sragets.alwaysdata.net/sn/extension.json",
